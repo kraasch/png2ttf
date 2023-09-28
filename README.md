@@ -14,6 +14,12 @@ will follow.
  - uses the font-forge project: https://fontforge.org/docs/tutorial/scripting-tutorial.html
  - some temporary work around code by me.
 
+## license
+
+ - font-forge: https://github.com/fontforge/fontforge/blob/master/LICENSE
+ - python PIL: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+ - my wrapper code: do what you want
+
 ## further reading
 
  - https://fontforge.org/docs/tutorial/scripting-tutorial.html
