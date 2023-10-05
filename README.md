@@ -13,12 +13,15 @@ Will follow, but the idea is this:
 ## todo
 
 Basics:
+
  - [X] chop png automatically.
  - [X] create svgs automatically.
  - [ ] create ttf automatically.
  - [ ] add python REQUIREMENTS file.
 
 Polish:
+
+ - [ ] export to otf format too.
  - [ ] implement the whole thing for windows environments too.
  - [ ] deal with sub repo that converts png to svg (find essential code and replace. or integrate into this project).
  - [ ] modular tests in python, eg with cucumber or similar.
@@ -46,12 +49,14 @@ Note: The FontForge project includes a python interpreter.
 ## credits and license
 
 Credits:
- - the converter is inspired by a script by Javier Rodriguez which can be found here: https://github.com/IngJavierR/PngToSvg
- - uses the font-forge project: https://fontforge.org/
+
+ - The converter is inspired by a script by Javier Rodriguez which can be found here: https://github.com/IngJavierR/PngToSvg
+ - Uses the font-forge project: https://fontforge.org/
 
 License:
- - font-forge: https://github.com/fontforge/fontforge/blob/master/LICENSE
- - my wrapper code: do what you want
+
+ - FontForge: Revised BSD License, see [FontForge's license on Github]https://github.com/fontforge/fontforge/blob/master/LICENSE.
+ - My wrapper code: do what you want.
 
 ## resources
 
