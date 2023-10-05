@@ -12,13 +12,13 @@ Will follow, but the idea is this:
 
 ## todo
 
-basics:
+Basics:
  - [X] chop png automatically.
  - [X] create svgs automatically.
  - [ ] create ttf automatically.
  - [ ] add python REQUIREMENTS file.
 
-polish:
+Polish:
  - [ ] implement the whole thing for windows environments too.
  - [ ] deal with sub repo that converts png to svg (find essential code and replace. or integrate into this project).
  - [ ] modular tests in python, eg with cucumber or similar.
@@ -45,23 +45,23 @@ Note: The FontForge project includes a python interpreter.
 
 ## credits and license
 
-credits:
+Credits:
  - the converter is inspired by a script by Javier Rodriguez which can be found here: https://github.com/IngJavierR/PngToSvg
  - uses the font-forge project: https://fontforge.org/docs/tutorial/scripting-tutorial.html
 
-license:
+License:
  - font-forge: https://github.com/fontforge/fontforge/blob/master/LICENSE
  - my wrapper code: do what you want
 
 ## resources
 
-interesting:
+Interesting:
  - https://github.com/benob/png_font_to_ttf
  - https://github.com/Eiyeron/py_aseprite
  - https://github.com/aseprite/aseprite/blob/main/docs/ase-file-specs.md
  - https://fontforge.org/docs/tutorial/scripting-tutorial.html
 
-misc:
+Misc:
  - https://stackoverflow.com/questions/13278707/how-can-i-convert-svg-files-to-a-font
  - https://stackoverflow.com/questions/12336401/creating-icon-fonts-with-vector-software-i-e-inkscape-and-fontforge
  - https://web.archive.org/web/20170107170808/http://stackoverflow.com/questions/13882328/tools-to-convert-svg-to-ttf
