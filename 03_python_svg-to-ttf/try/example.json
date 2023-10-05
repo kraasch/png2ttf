@@ -1,14 +1,14 @@
 { "props":
-  { "ascent": 96
-    , "descent": 32
-    , "em": 128
-    , "encoding": "UnicodeFull"
-    , "lang": "English (US)"
-    , "family": "Example"
-    , "style": "Regular"
-    , "familyname": "Example"
-    , "fontname": "Example-Regular"
-    , "fullname": "Example Regular"
+  {   "ascent":     96
+    , "descent":    32
+    , "em":         128
+    , "encoding":   "UnicodeFull"
+    , "lang":       "English (US)"
+    , "family":     "Froggo"
+    , "style":      "Regular"
+    , "familyname": "Froggo"
+    , "fontname":   "Froggo-Regular"
+    , "fullname":   "Froggo Regular"
   }
   , "glyphs":
   { 
@@ -75,24 +75,24 @@
     "0x26": "061_048-096.png.svg",
     "0x5e": "062_048-104.png.svg",
     "0x3d": "063_048-112.png.svg",
-    "0x23": "064_048-120.png.svg",
+    "0x23": "064_048-120.png.svg"
   }
   , "sfnt_names":
-  [ ["English (US)", "Copyright", "Copyright (c) 2014 by Nobody"]
-    , ["English (US)", "Family", "Example"]
-    , ["English (US)", "SubFamily", "Regular"]
-    , ["English (US)", "UniqueID", "Example 2014-12-04"]
-    , ["English (US)", "Fullname", "Example Regular"]
-    , ["English (US)", "Version", "Version 001.000"]
-    , ["English (US)", "PostScriptName", "Example-Regular"]
+  [ ["English (US)",   "Copyright",      "Copyright (c) 2023 by Alex Kraasch"]
+    , ["English (US)", "Family",         "Froggo"]
+    , ["English (US)", "SubFamily",      "Regular"]
+    , ["English (US)", "UniqueID",       "Froggo 2023-10-05"]
+    , ["English (US)", "Fullname",       "Froggo Regular"]
+    , ["English (US)", "Version",        "Version 001.000"]
+    , ["English (US)", "PostScriptName", "Froggo-Regular"]
   ]
   , "input": "./files_in/"
   , "output": 
   [ 
-    "./exp/example.ttf", 
-    "./exp/example.otf", 
-    "./exp/example.svg", 
-    "./exp/example.woff" 
+    "./exp/froggo.ttf", 
+    "./exp/froggo.otf", 
+    "./exp/froggo.svg", 
+    "./exp/froggo.woff" 
   ]
   , "# vim: set et sw=2 ts=2 sts=2:": false
 }
