@@ -3,6 +3,7 @@ import operator
 from collections import deque
 from io import StringIO
 import os
+import sys
 
 def add_tuple(a, b):
     return tuple(map(operator.add, a, b))
@@ -212,8 +213,8 @@ def main():
          if filename.endswith(".png"):
             file_now=os.path.join(indir, filename)
             ### print(file_now) # TODO: remove later.
-             my_convert(filename)
-             continue
+            my_convert(filename)
+            continue
          else:
              continue
 
