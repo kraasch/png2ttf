@@ -10,7 +10,7 @@ will follow.
    - [ ] chop png automatically.
    - [ ] create svgs automatically.
    - [ ] create ttf automatically.
-   - [ ] add python version file.
+   - [ ] add python REQUIREMENTS file.
 
  - polish.
    - [ ] deal with sub repo that converts png to svg (find essential code and replace. or integrate into this project).
