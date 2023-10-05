@@ -1,12 +1,12 @@
 
 run:
 	make clean
-	python3 ./init.py ./files_in ./files_out
+	python3 ./init.py ./files_in ./exp
 	make view
 
 clean:
-	rm -rf ./files_out
-	mkdir ./files_out
+	rm -rf ./exp
+	mkdir ./exp
 
 view:
 	ls *
