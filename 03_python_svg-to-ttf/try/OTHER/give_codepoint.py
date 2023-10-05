@@ -11,5 +11,8 @@ with open(input_file) as f:
             break
         #if not c == os.linesep:
         if not c == '\n':
-            print(f"{c}")
-            print(ord(c.encode('utf-8')))
+            print(f"{c}", end='\t')
+            word=ord(c.encode('utf-8'))
+            print(word, end='\t')
+            print(format(word, '#04x'), end='\t')
+            print()
