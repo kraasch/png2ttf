@@ -62,6 +62,7 @@ Interesting:
  - https://fontforge.org/docs/scripting/scripting.html
  - https://fontforge.org/docs/tutorial/scripting-tutorial.html
  - https://fontforge.org/docs/scripting/scripting-alpha.html
+ - https://fontforge.org/docs/scripting/python.html
 
 Misc:
  - https://stackoverflow.com/questions/13278707/how-can-i-convert-svg-files-to-a-font
