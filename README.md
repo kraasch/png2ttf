@@ -33,3 +33,7 @@ will follow.
  - https://github.com/benob/png_font_to_ttf
  - https://github.com/sl2/TTF-to-PNG
  - https://superuser.com/questions/1337567/how-do-i-convert-a-ttf-into-individual-png-character-images
+
+## other sources, related by topic
+
+ - https://github.com/benob/png_font_to_ttf
