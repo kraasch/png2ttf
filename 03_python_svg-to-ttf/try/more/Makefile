@@ -1,3 +1,3 @@
 
 run:
-	fontforge -lang=py -script makesvg.py more/example.json
+	fontforge -lang=py -script ./makesvg.py ./example.json
