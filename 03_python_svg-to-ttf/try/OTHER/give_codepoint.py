@@ -12,3 +12,4 @@ with open(input_file) as f:
         #if not c == os.linesep:
         if not c == '\n':
             print(f"{c}")
+            print(ord(c.encode('utf-8')))

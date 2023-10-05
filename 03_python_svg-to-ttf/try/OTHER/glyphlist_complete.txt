@@ -2,7 +2,7 @@ aAbBcCdDeEfFgGhH
 iIjJkKlLmMnNoOpP
 qQrRsStTuUvVxXyY
 zZ0123456789&^=#
-ABCDEFGHIJKLMNOP
-QRSTUVWXYZ012345
-6789.,:;!?—-+×/\
+𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏
+𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙⓪①②③④⑤
+⑥⑦⑧⑨.,:;!?—-+×/\
 "'…*()[]”“><{}|~
