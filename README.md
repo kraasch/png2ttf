@@ -4,9 +4,16 @@
 
 will follow.
 
-## TODOs
+## what's next?
 
- - [ ] implement.
+ - basics.
+   - [ ] chop png automatically.
+   - [ ] create svgs automatically.
+   - [ ] create ttf automatically.
+
+ - polish.
+   - [ ] modular tests in python, eg with cucumber or similar.
+   - [ ] automatically export aseprite to png using python: eg with https://github.com/Eiyeron/py_aseprite
 
 ## credits
 
