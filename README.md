@@ -37,3 +37,5 @@ will follow.
 ## other sources, related by topic
 
  - https://github.com/benob/png_font_to_ttf
+ - https://github.com/Eiyeron/py_aseprite
+ - https://github.com/aseprite/aseprite/blob/main/docs/ase-file-specs.md
