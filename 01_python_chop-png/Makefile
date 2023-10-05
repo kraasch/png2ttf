@@ -7,5 +7,5 @@ run:
 clean:
 	rm -rf ./exp
 
-clean:
+view:
 	ls *

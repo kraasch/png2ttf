@@ -183,18 +183,24 @@ def rgba_image_to_svg_pixels(im, opaque=None):
     s.write("""</svg>\n""")
     return s.getvalue()
 
-dir_name_in = 'examples'
-dir_name_out= 'output'
-directory = os.fsencode(dir_name_in)
-SEP = '\\'
+# for example: indir ='examples'
+indir =sys.argv[1]
+# for example: dir_name_out='output'
+outdir=sys.argv[2]
+is_exists = os.path.exists(outdir)
+if not is_exists:
+   os.makedirs(outdir)
+
+directory = os.fsencode(indir)
 
 def my_convert(fname):
+
     #fname_in  = 'examples/angular.png'
+    fname_in   = os.path.join(indir, fname)
     #fname_out = 'output/angular.png.svg'
-    fname_in   = dir_name_in  + SEP + fname
-    fname_out  = dir_name_out + SEP + fname + '.svg'
+    fname_out  = os.path.join(outdir, fname + '.svg')
+
     image = Image.open(fname_in).convert('RGBA')
-    print('hi')
     svg_image = rgba_image_to_svg_contiguous(image)
     #svg_image = rgba_image_to_svg_pixels(image)
     with open(fname_out, "w") as text_file:
@@ -204,8 +210,8 @@ def main():
     for file in os.listdir(directory):
          filename = os.fsdecode(file)
          if filename.endswith(".png"):
-             file_now=os.path.join(dir_name_in, filename)
-             print(file_now)
+            file_now=os.path.join(indir, filename)
+            ### print(file_now) # TODO: remove later.
              my_convert(filename)
              continue
          else:
