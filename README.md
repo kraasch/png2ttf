@@ -47,7 +47,7 @@ Note: The FontForge project includes a python interpreter.
 
 Credits:
  - the converter is inspired by a script by Javier Rodriguez which can be found here: https://github.com/IngJavierR/PngToSvg
- - uses the font-forge project: https://fontforge.org/docs/tutorial/scripting-tutorial.html
+ - uses the font-forge project: https://fontforge.org/
 
 License:
  - font-forge: https://github.com/fontforge/fontforge/blob/master/LICENSE
@@ -59,7 +59,9 @@ Interesting:
  - https://github.com/benob/png_font_to_ttf
  - https://github.com/Eiyeron/py_aseprite
  - https://github.com/aseprite/aseprite/blob/main/docs/ase-file-specs.md
+ - https://fontforge.org/docs/scripting/scripting.html
  - https://fontforge.org/docs/tutorial/scripting-tutorial.html
+ - https://fontforge.org/docs/scripting/scripting-alpha.html
 
 Misc:
  - https://stackoverflow.com/questions/13278707/how-can-i-convert-svg-files-to-a-font
