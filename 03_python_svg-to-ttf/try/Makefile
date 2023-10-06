@@ -1,7 +1,11 @@
 
-run:
+run_init:
 	make clean
-	fontforge -lang=py -script ./makesvg.py ./example.json
+	fontforge -lang=py -script ./makesvg.py ./example_INIT.json
+
+run_mini:
+	make clean
+	fontforge -lang=py -script ./makesvg.py ./example_MINE.json
 
 clean:
 	rm -rf ./exp
