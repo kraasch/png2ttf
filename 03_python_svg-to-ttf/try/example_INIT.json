@@ -27,7 +27,11 @@
   , ["English (US)", "Version", "Version 001.000"]
   , ["English (US)", "PostScriptName", "Example-Regular"]
   ]
-, "input": "."
-, "output": [ "example.ttf", "example.svg", "example.woff" ]
+, "input": "./svgz/"
+, "output": [ 
+    "exp/example.ttf", 
+    "exp/example.svg", 
+    "exp/example.woff" 
+  ]
 , "# vim: set et sw=2 ts=2 sts=2:": false
 }
