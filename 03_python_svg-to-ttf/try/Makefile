@@ -3,13 +3,13 @@ run_mini:
 	make clean
 	fontforge -lang=py -script ./makesvg.py ./example_MINI.json
 
-run_mine:
-	make clean
-	fontforge -lang=py -script ./makesvg.py ./example_MINE.json
-
 run_init:
 	make clean
 	fontforge -lang=py -script ./makesvg.py ./example_INIT.json
+
+run_mine:
+	make clean
+	fontforge -lang=py -script ./makesvg.py ./example_MINE.json
 
 clean:
 	rm -rf ./exp
