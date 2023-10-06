@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20201107 at Fri Oct  6 11:46:57 2023
+Created by FontForge 20201107 at Fri Oct  6 11:52:06 2023
  By Alex C. Kraasch
 Copyright (c) 2023, Alex C. Kraasch
 </metadata>
@@ -19,12 +19,14 @@ Copyright (c) 2023, Alex C. Kraasch
     panose-1="2 0 5 9 0 0 0 0 0 0"
     ascent="96"
     descent="-32"
-    bbox="0 -32 128 96"
+    bbox="0 -41.125 128 100.875"
     underline-thickness="50"
     underline-position="-100"
     unicode-range="U+003F-1F304"
   />
     <missing-glyph />
+    <glyph glyph-name="a" unicode="a" 
+d="M33.375 100.875h87v-142h-87v142z" />
     <glyph glyph-name="question" unicode="?" 
 d="M48 -32v24h32v-24h-32zM64 96c18.667 0 33.7852 -4.74023 44.4062 -13.8438s15.5938 -22.1562 15.5938 -34.1562c0 -11.75 -4.4668 -22.1191 -12 -28s-16.3457 -7.35352 -22 -9c-2.43066 -0.708008 -10 -3 -10 -7h-32c-0.380859 11.4404 5.38184 22.2822 12.9062 27.875
 s14.749 7.11328 20.2188 8.71875c3.73438 1.09668 11.1611 1.79199 10.875 7.40625c-0.203125 3.99512 -1.02734 6.94727 -4.40625 9.84375s-10.2607 6.15625 -23.5938 6.15625s-20.2148 -3.25977 -23.5938 -6.15625s-4.40625 -5.84375 -4.40625 -9.84375h-32
