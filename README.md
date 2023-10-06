@@ -68,6 +68,7 @@ Interesting:
  - https://fontforge.org/docs/tutorial/scripting-tutorial.html
  - https://fontforge.org/docs/scripting/scripting-alpha.html
  - https://fontforge.org/docs/scripting/python.html
+ - https://github.com/benob/png_font_to_ttf
 
 Misc:
  - https://github.com/benob/png_font_to_ttf
@@ -80,3 +81,23 @@ Misc:
  - https://superuser.com/questions/1337567/how-do-i-convert-a-ttf-into-individual-png-character-images
  - https://superuser.com/questions/48879/how-can-i-make-a-font-using-a-png-image
  - https://web.archive.org/web/20170107170808/http://stackoverflow.com/questions/13882328/tools-to-convert-svg-to-ttf
+ - https://stackoverflow.com/questions/27863832/calling-python-2-script-from-python-3
+ - https://stackoverflow.com/questions/22124130/import-a-sequence-of-svg-files-into-fontforge-as-glyphs-and-output-a-font-file
+ - https://itecnote.com/tecnote/python-import-a-sequence-of-svg-files-into-fontforge-as-glyphs-and-output-a-font-file/
+ - https://www.youtube.com/watch?v=jKW2hf_RWT4
+ - https://github.com/fontforge/fontforge/issues/4766
+ - https://gist.github.com/psmay/fd3e7e91893f6012b262
+ - https://stackoverflow.com/questions/631406/what-is-the-difference-between-em-dash-151-and-8212
+ - https://stackoverflow.com/questions/8600552/python-get-character-code-in-different-encoding
+ - https://www.obliquity.com/computer/html/unicode1D400.html
+ - https://www.lennyfacecopypaste.com/text-symbols/circle-numbers.html
+ - https://stackoverflow.com/questions/7291120/get-unicode-code-point-of-a-character-using-python
+ - https://note.nkmk.me/en/python-chr-ord-unicode-code-point/
+ - https://stackoverflow.com/questions/1273693/why-is-u-used-to-designate-a-unicode-code-point
+ - https://github.com/fonttools/fontbakery/issues/1939
+ - https://github.com/carrasti/pysvg2font
+ - https://github.com/pteromys/svgs2ttf
+ - https://fontforge.org/docs/faq.html
+ - https://stackoverflow.com/questions/17097775/how-to-reference-to-other-glyphs-in-fontforge
+ - https://help.fontlab.com/fontlab/7/manual/About-Glyphs/
+ - https://github.com/benob/png_font_to_ttf
