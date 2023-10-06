@@ -6,3 +6,6 @@ run:
 clean:
 	rm -rf ./exp
 	mkdir ./exp
+
+reverse:
+	convert -background none -fill black -font example.ttf -pointsize 300 label:"Z" z.png
