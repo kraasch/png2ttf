@@ -12,11 +12,12 @@
   , "fullname": "Example Regular"
   }
 , "glyphs":
-  { "0x3f": { "src": "question.svg", "width": 128 }
-  , "0xab": { "src": "back.svg", "width": 128 }
-  , "0x263a": ""
-  , "0x2723": "overlap-test.svg"
-  , "0x1f304": "outline-test.svg"
+  { 
+   "0x3f": { "src": "question.svg", "width": 128 },
+   "0xab": { "src": "back.svg", "width": 128 },
+   "0x263a": "",
+   "0x2723": "overlap-test.svg",
+   "0x1f304": "outline-test.svg"
   }
 , "sfnt_names":
   [ ["English (US)", "Copyright", "Copyright (c) 2014 by Nobody"]

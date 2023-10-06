@@ -12,9 +12,11 @@
   }
   , "glyphs":
   { 
-    "0x61": "001_000-000.png.svg",
-    "0x41": "002_000-008.png.svg",
-    "0x62": "003_000-016.png.svg",
+   "0x3f": { "src": "question.svg", "width": 128 },
+   "0xab": { "src": "back.svg", "width": 128 },
+   "0x263a": "",
+   "0x2723": "overlap-test.svg",
+   "0x1f304": "outline-test.svg"
   }
   , "sfnt_names":
   [ ["English (US)", "Copyright", "Copyright (c) 2014 by Nobody"]
