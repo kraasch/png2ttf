@@ -15,5 +15,8 @@ clean:
 	rm -rf ./exp
 	mkdir ./exp
 
+show:
+	ls -a ./output/
+
 reverse:
-	convert -background none -fill black -font example.ttf -pointsize 300 label:"Z" z.png
+	convert -background none -fill black -font ./output/example.ttf -pointsize 300 label:"Z" ./output/z.png

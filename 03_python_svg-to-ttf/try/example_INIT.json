@@ -28,7 +28,7 @@
   , ["English (US)", "Version", "Version 001.000"]
   , ["English (US)", "PostScriptName", "Example-Regular"]
   ]
-, "input": "./svgz/"
+, "input": "./files_in/"
 , "output": [ 
     "exp/example.ttf", 
     "exp/example.svg", 
