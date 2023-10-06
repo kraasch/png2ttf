@@ -13,7 +13,7 @@
   }
 , "glyphs":
   { 
-   "0x61": "001_000-000.png.svg",
+   "0x61": "abc.svg",
    "0x3f": { "src": "question.svg", "width": 128 },
    "0xab": { "src": "back.svg", "width": 128 },
    "0x263a": "",
