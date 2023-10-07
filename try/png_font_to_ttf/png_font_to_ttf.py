@@ -35,6 +35,7 @@ for j in range(image.height // height):
 
           # draw each non-background pixel as a square
           for y in range(height):
+              #fontforge.activeGlyph()
               for x in range(width):
                   pixel = pixels[i * width + x, j * height + y]
                   if pixel != background:
