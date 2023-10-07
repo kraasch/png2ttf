@@ -69,6 +69,7 @@ Interesting:
  - https://fontforge.org/docs/scripting/scripting-alpha.html
  - https://fontforge.org/docs/scripting/python.html
  - https://github.com/benob/png_font_to_ttf
+ - https://docs.godotengine.org/en/stable/tutorials/ui/gui_using_fonts.html
 
 Misc:
  - https://github.com/benob/png_font_to_ttf
