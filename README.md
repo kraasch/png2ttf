@@ -55,7 +55,7 @@ Credits:
 
 License:
 
- - FontForge: Revised BSD License, see [FontForge's license on Github]https://github.com/fontforge/fontforge/blob/master/LICENSE.
+ - FontForge: Revised BSD License, see [FontForge's license on Github](https://github.com/fontforge/fontforge/blob/master/LICENSE).
  - My wrapper code: do what you want.
 
 ## resources
